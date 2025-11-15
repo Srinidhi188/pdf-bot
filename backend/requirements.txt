@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+faiss-cpu
+langchain-community
+langchain-text-splitters
+google-genai
+fireworks
+numpy
+PyPDF2
+pydantic
+python-dotenv
